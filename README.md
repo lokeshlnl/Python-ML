@@ -12,7 +12,7 @@ This Jupyter Notebook contains a machine learning model that predicts real estat
 - Clean and beginner-friendly notebook
 
 ## 📊 Dataset
-Kaggle housing dataset (link if public)
+Kaggle housing dataset 
 
 ## 🚀 Features
 - End-to-end data preprocessing
@@ -32,4 +32,4 @@ Kaggle housing dataset (link if public)
 
 
 
-## 📎 Check it out:
+
